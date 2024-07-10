@@ -31,7 +31,7 @@
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 - :telescope: I’m Full Stack Python Developer and student of TATU 3/5.
 
-- :seedling: PYthon Django
+- :seedling: PYthon, Django, Telegram_bot, Git, Sql
 
 - :zap: In my free time, I solve problems on my projects
  and read tech articles.
