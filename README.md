@@ -3,3 +3,6 @@
 </div>
 Label-Color
 https://img.shields.io/badge/LinkedIn-blue
+logo={your social network icon name}
+logoColor={color of the icon}
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
